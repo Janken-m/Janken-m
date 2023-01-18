@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native , Angular , Java**
 
-- 👨‍💻 All of my projects are available at [janken.dev](janken.dev)
+- 👨‍💻 All of my projects are available at https://janken.dev
 
 - 💬 Ask me about **MERN STACK**
 
