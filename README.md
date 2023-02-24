@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janken-m&label=Profile%20views&color=0e75b6&style=flat" alt="janken-m" /> </p>
 
-- 🌱 I’m currently learning **React Native , Angular , Java**
+- 🌱 I’m currently learning **React Native , next js , c#**
 
 - 👨‍💻 All of my projects are available at https://janken.dev
 
