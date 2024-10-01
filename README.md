@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janken-m&label=Profile%20views&color=0e75b6&style=flat" alt="janken-m" /> </p>
 
-- 🌱 I’m currently learning **React Native , next js , c#**
+- 🌱 I’m Fullstack developer 
 
 - 👨‍💻 All of my projects are available at https://janken.dev
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **janken-matene@hotmail.com**
 
-- ⚡ Fun fact **I have a goals to learn all the worlds programming languages xD**
+- ⚡ **React Native , **Next js , c#** , **Python , **Nodejs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
